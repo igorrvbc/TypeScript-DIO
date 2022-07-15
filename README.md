@@ -6,3 +6,4 @@ Link do repositório principal dos códigos e desafios:
   https://github.com/lira1705/mentoria-typescript
   
 
+OBS:  !!! Para testar o código, é preciso criar uma pasta 'src' na raíz do projeto e mover o arquivo 'app.ts' para dentro dela. !!!
