@@ -7,3 +7,7 @@ Link do repositório principal dos códigos e desafios:
   
 
 OBS:  !!! Para testar o código, é preciso criar uma pasta 'src' na raíz do projeto e mover o arquivo 'app.ts' para dentro dela. !!!
+
+
+
+#ObrigadoLIRA !!!
